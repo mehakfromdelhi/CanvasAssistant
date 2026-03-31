@@ -1,0 +1,9 @@
+browser-use
+playwright
+openai
+google-genai
+python-dotenv
+requests
+pypdf
+beautifulsoup4
+readability-lxml

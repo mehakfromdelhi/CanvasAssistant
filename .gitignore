@@ -1,0 +1,15 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+data/browser/
+data/downloads/
+logs/
+*.log
+python-installer.exe
+*.tmp
+*.bak
+New project.txt
+gemini-key-misnamed.env

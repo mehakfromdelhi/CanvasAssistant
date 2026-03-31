@@ -1,0 +1,2 @@
+"""Canvas academic assistant package."""
+
