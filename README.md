@@ -204,3 +204,6 @@ If you extend this project, keep it safe for local users:
 - document any new environment variables
 - keep outputs predictable and easy to inspect
 
+## License
+
+This project is licensed under the MIT License. See [`LICENSE`](LICENSE).
